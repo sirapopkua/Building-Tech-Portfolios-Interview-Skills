@@ -3,7 +3,7 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Sirapop Chantawong <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
