@@ -6,17 +6,18 @@
 <h1 align="center">Hi, I’m Sirapop Chantawong <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
+  <strong>Fullstack Developer (Java / Spring Boot) • Web Development Student </strong><br/>
   <em>“Turning ideas into delightful, scalable software.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 🎓  I’m currently learning Web Development at Maejo University
+- 🛠  Daily driver stack: Java, Spring Boot, Hibernate/JPA, MySQL, Next.js
+- 🌱 Currently building out a full-stack capstone project end to end
+- 🎯  2025 Goal:land a Web Development / Fullstack role and keep shipping real projects
+- 📫  Reach me: Reach me: Sirapop303@gmail.com | 081-150-1455
 
 ---
 
@@ -25,10 +26,10 @@
 
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| Front-end | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+| Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ![Hibernate/JPA](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?logo=hibernate&logoColor=white) | ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) |
+| Data | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |  |
+| DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Retional Rose](https://img.shields.io/badge/Rational%20Rose-A91D22?logoColor=white) |
 
 </div>
 
@@ -37,9 +38,8 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+| Moving Service | React · Next.js · Spring Boot | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
+
 
 _Add 2–4 projects max. Each row should fit on one screen._
 
@@ -64,9 +64,9 @@ _Add 2–4 projects max. Each row should fit on one screen._
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 💌 Email: Sirapop303@gmail.com
+- ☎️ Phone: 081-150-1455
+- 🐦 DM me on [X/Twitter]((https://x.com/SirapopJantawo1))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
