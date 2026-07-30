@@ -38,18 +38,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| Moving Service | React · Next.js · Spring Boot | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-
-
-_Add 2–4 projects max. Each row should fit on one screen._
-
----
-
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+| Moving Service | React · Next.js · Spring Boot | layered architecture (Controller → Service → Repository), 11-entity domain model| [Repo](⟪url⟫) · [Live](⟪url⟫) |
 
 ---
 
@@ -66,7 +55,7 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 - 💌 Email: Sirapop303@gmail.com
 - ☎️ Phone: 081-150-1455
-- 🐦 DM me on [X/Twitter]((https://x.com/SirapopJantawo1))
+- 🐦 DM me on [X/Twitter](https://x.com/SirapopJantawo1)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
